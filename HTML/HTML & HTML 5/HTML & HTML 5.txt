@@ -1,0 +1,24 @@
+HTML & HTML5 Difference :-
+
+SCO :- Search Content Optimization
+HTML :- Hyper Text Markup Language
+
+HTML:-
+1.HTML first version in 1993.(HTML 1)
+2.HTML second version in 1995.(HTML 2)
+3.HTML third version in 1997.(HTML 3)
+4.HTML fourth version in 1999.(HTML 4.01)
+5.HTML does not support video and audio.
+6.HTML is a markup language, not a programming language.
+7.HTML is used for creating web pages.
+
+
+HTML5:-
+1.HTML 5 is the latest version of HTML.
+2.HTML5 introduces SVG and Canvas.
+3.HTML5 introduce semantic tag.
+  (ex:- Audio,Video,Date,Range,Color,Iframe,etc...)
+4.SCO mostly used in HTML5.
+5.HTML5 supports both video and audio.
+6.The DOCTYPE declaration in html5 is very simple "<! DOCTYPE html>.
+7.HTML5 is used for creating web pages, web application, and mobile application.

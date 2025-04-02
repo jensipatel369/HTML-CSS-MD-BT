@@ -1,0 +1,101 @@
+div{
+    border: 1px solid black;
+}
+.main{
+    width: 100%;
+}
+.main-1{
+    width: 100%;
+    height: 60px;
+    display: flex;
+}
+.box-1{
+    width: 10%;
+}
+.box-2{
+    width: 80%;
+}
+.main-2{
+    width: 100%;
+    height: 400px;
+    display: flex;
+}
+.box-3{
+    width: 60%;
+}
+.box-13{
+    width: 40%;
+}
+.main-3{
+    width: 100%;
+    height: 30px;
+}
+.main-4{
+    width: 100%;
+    height: 30px;
+    display: flex;
+}
+.box-4{
+    width: 20%;
+}
+.main-5{
+    width: 100%;
+    height: 400px;
+    display: flex;
+}
+.box-5{
+    width: 42%;
+}
+.box-6{
+    width: 58%;
+}
+.main-6{
+    width: 100%;
+    height: 60px;
+}
+.main-7{
+    width: 100%;
+    height: 100px;
+    display: flex;
+}
+.box-7{
+    width: 25%;
+}
+.main-8{
+    width: 100%;
+    height: 100px;
+}
+.main-9{
+    width: 100%;
+    height: 50px;
+}
+.main-10{
+    width: 100%;
+    height: 200px;
+    display: flex;
+}
+.box-8{
+    width: 33.33%;
+}
+.main-11{
+    width: 100%;
+    height: 200px;
+    display: flex;
+}
+.box-9{
+    width: 35%;
+}
+.box-10{
+    width: 35%;
+}
+.box-11{
+    width: 30%;
+}
+.main-12{
+    width: 100%;
+    height: 30px;
+    display: flex;
+}
+.box-12{
+    width: 33.33%;
+}

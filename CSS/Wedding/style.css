@@ -1,0 +1,172 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   font-family: sans-serif;
+}
+nav{
+    padding: 20px 80px;
+    display: flex;
+    justify-content: space-between;
+}
+nav h4{
+    font-weight: 100;
+}
+ul{
+    display: flex;
+    gap: 80px;
+    list-style: none;
+}
+ul li a{
+    color: black;
+    font-size: 14px;
+    text-decoration: none;
+}
+ul li a:hover{
+    text-decoration: underline;
+}
+.hero{
+    display: flex;
+}
+.hero img{
+    width: 50%;
+}
+.taste{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+    text-align: center;
+    color: #303030;
+}
+.taste h3{
+    font-weight: 300;
+}
+.taste h1{
+    font-family: "Noto Serif Display", serif;
+    font-size: 80px;
+    font-weight: 200;
+    margin: 15px 0 90px 0;
+}
+.taste button{
+    padding: 15px 35px;
+    color: #782222;
+    border: 1px solid #782222;
+    cursor: pointer;
+}
+.taste button:hover{
+    background-color: black;
+    border: 1px solid black;
+    color: white;
+    transition: 0.5s all;
+}
+.about{
+    display: flex;
+    margin: 70px 0;
+    padding: 0 70px;
+}
+.about img{
+    width: 50%;
+}
+.more{
+    width: 50%;
+    color: #303030;
+}
+.more h1{
+    font-family: "Noto Serif Display", serif;
+    font-size: 70px;
+    font-weight: 200;
+}
+.more p{
+    font-size: 14px;
+    margin: 40px 0;
+}
+.more button{
+    padding: 12px 20px;
+    color: #782222;
+    border: 1px solid #782222;
+    cursor: pointer;
+}
+.more button:hover{
+    background-color: black;
+    border: 1px solid black;
+    color: white;
+    transition: 0.5s all;
+}
+.testimonials{
+    padding: 80px;
+}
+.testimonials h1{
+    font-family: "Noto Serif Display", serif;
+    font-size: 70px;
+    font-weight: 200;    
+}
+.work{
+    display: flex;
+    justify-content: space-between;
+}
+.work p{
+    margin: 80px 0 50px;
+}
+.box1{
+    width: 26%;
+}
+.box1 img{
+    width: 100%;
+    margin: 60px 0 0;
+}
+.box1 h2{
+    font-family: "Noto Serif Display", serif;
+    margin: 30px 0 15px;
+    font-size: 30px;
+    font-weight: 400;
+}
+.box1 h3{
+    font-family: "Noto Serif Display", serif;
+    margin: 50px 0 15px;
+    font-size: 30px;
+    font-weight: 400;
+}
+.box1 h4{
+    font-weight: 300;
+}
+.img{
+    padding: 0 80px 80px;
+}
+.img img{
+    width: 100%;
+} 
+footer{
+    padding: 80px;
+    color: white;
+    background-color: rgb(26, 25, 25);
+}
+.icon{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.one{
+    width: 40px;
+    height: 40px;
+    background-color: white;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.one:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: 0.5s all;
+}
+footer hr{
+    margin: 50px 0;
+}
+footer p{
+    text-align: center;
+}
+  
+  
+  
